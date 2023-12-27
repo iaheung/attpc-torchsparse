@@ -89,6 +89,7 @@ Currently, the model is for point classification. I believe that the MinkUNet Mo
 
 ## Usage
 [![DOI](https://zenodo.org/badge/736441968.svg)](https://zenodo.org/doi/10.5281/zenodo.10436993)
+
 If you decide to use code in this repository, please cite as follows:
 
 ```
