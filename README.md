@@ -87,6 +87,14 @@ Currently, the model is for point classification. I believe that the MinkUNet Mo
 
 ### [website](http://torchsparse.mit.edu/) | [paper](https://arxiv.org/abs/2204.10319) | [presentation](https://www.youtube.com/watch?v=IIh4EwmcLUs) | [documents](http://torchsparse-docs.github.io/) | [pypi server](http://pypi.hanlab.ai/simple/torchsparse)
 
+## Usage
+[![DOI](https://zenodo.org/badge/736441968.svg)](https://zenodo.org/doi/10.5281/zenodo.10436993)
+If you decide to use code in this repository, please cite as follows:
+
+```
+Heung, I. (2023). AT-TPC TorchSparse: 3D Sparse Convolution for AT-TPC Data (Version 0.1.0) [Computer software]. https://doi.org/10.5281/zenodo.10436993
+```
+
 ## Acknowledgement
 Training Pipeline and Implementation based on code by MIT TorchSparse team. Please reference their repositories for more information:
 - [TorchSparse](https://github.com/mit-han-lab/torchsparse/tree/master)
