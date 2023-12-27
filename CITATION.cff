@@ -1,0 +1,10 @@
+cff-version: 0.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Heung"
+    given-names: "Ian"
+title: "AT-TPC TorchSparse: 3D Sparse Convolution for AT-TPC Data"
+version: 0.1.0
+doi: 10.5281/zenodo.10436993
+date-released: 2023-12-27
+url: "https://github.com/iaheung/attpc-torchsparse"
