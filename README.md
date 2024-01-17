@@ -1,5 +1,7 @@
 # TorchSparse for the AT-TPC 
 
+*The following repository is forked from a private repository. It will not always be updated to the latested working version*
+
 TorchSparse is a high-performance neural network library for point cloud processing.
 
 ***
